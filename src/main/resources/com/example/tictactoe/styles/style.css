@@ -1,0 +1,21 @@
+
+.field {
+    -fx-pref-height: 200px; // 200 is more than height of field space so work like 100%
+    -fx-pref-width: 200px;
+    -fx-font-size: 75px;
+    -fx-background-color: #f4f4f4;
+    -fx-background-radius: 0;
+    -fx-padding: 0;
+}
+
+.x-color {
+    -fx-text-fill: #FF3333;
+}
+
+.o-color {
+    -fx-text-fill: #3399FF;
+}
+
+#board {
+    -fx-background-color: #000;
+}
